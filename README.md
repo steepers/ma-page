@@ -18,3 +18,5 @@ Alternatively,
 - And if you have sub points, put two spaces before the dash or star:
   - Like this
   - And this
+  
+  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
